@@ -12,7 +12,7 @@
 ![1.](screenshots/3.png)
 
 ## EJERCICIO 3 ##
-![1.](screenshots/1.png)
+![1.](screenshots/4.png)
 
 ## EJERCICIO 4 ##
 ![1.](screenshots/1.png)
