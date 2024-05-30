@@ -15,10 +15,11 @@
 ![1.](screenshots/4.png)
 
 ## EJERCICIO 4 ##
-![1.](screenshots/1.png)
+![1.](screenshots/5.png)
+![1.](screenshots/6.png)
 
 ## EJERCICIO 5 ##
-![1.](screenshots/1.png)
+![1.](screenshots/7.png)
 
 ## EJERCICIO 6 ##
 ![1.](screenshots/1.png)
